@@ -5,8 +5,11 @@ This repository consist of various text preprocessing techniques which we requir
 here 3  colab files for 3 type of text.which student course, tweeter, & research paper
 each code has 4 sections .
   1.Tokenization
+  
   2.spelling correction
+  
   3.stemmer
+  
   4.lemetization
  
 Tokenization is a powerful way of dealing with text data.
